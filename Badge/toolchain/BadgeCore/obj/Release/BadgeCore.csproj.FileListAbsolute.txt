@@ -1,0 +1,5 @@
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeCore\bin\Release\BadgeCore.dll
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeCore\bin\Release\BadgeCore.pdb
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeCore\obj\Release\BadgeCore.csproj.CoreCompileInputs.cache
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeCore\obj\Release\BadgeCore.dll
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeCore\obj\Release\BadgeCore.pdb

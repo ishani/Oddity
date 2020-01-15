@@ -1,0 +1,12 @@
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\bin\Release\BadgeUI.dll
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\bin\Release\BadgeUI.pdb
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\bin\Release\BadgeCore.dll
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\bin\Release\BadgeCore.pdb
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.csprojAssemblyReference.cache
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.FrameStripControl.resources
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.LEDMatrix.resources
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.csproj.GenerateResource.cache
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.csproj.CoreCompileInputs.cache
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.csproj.CopyComplete
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.dll
+F:\Dev\Github\OddityArchive\Badge\toolchain\BadgeUI\obj\Release\BadgeUI.pdb

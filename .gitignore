@@ -1,0 +1,8 @@
+# Compiled Object files
+*.obj
+*.ncb
+*.ilk
+*.suo
+*.pdb
+*.user
+*.tlog

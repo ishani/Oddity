@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="NinjaLib">
+      <UniqueIdentifier>{709d39c8-70fa-47d5-b415-cea96328e3e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core">
+      <UniqueIdentifier>{9a66a63b-a484-4e3f-879b-9dfb8fda12e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\Fixed Point">
+      <UniqueIdentifier>{31deb6d9-52d8-4b9f-b03b-454fd0d4dcfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\Utils">
+      <UniqueIdentifier>{9bbb65b0-f43b-45f0-85f1-130ed9700431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\fx">
+      <UniqueIdentifier>{3bce1c97-c256-4b71-914f-e59028ddff4d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NinjaLib\baseTypes.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\colour.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\GDITools.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\macros.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\mathDefs.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\mathUtils.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\Ninja.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaBase.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaButton.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaCheckbox.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaFrame.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaFW.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaGraph.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaImageView.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaLabel.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaLEDMatrix.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\ninjaProgress.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\resource.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\vector2.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\vector3.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\vector4.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\winInc.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="NinjaLib\winUtils.h">
+      <Filter>NinjaLib</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\oddity.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\vfx.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fix16.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fix16_cpp.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fix16_trig_sin_lut.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fixedpoint.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fixmath.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fract32.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\fxp3d.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\int64.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\pstdint.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\uint32.h">
+      <Filter>core\Fixed Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\RNG.h">
+      <Filter>core\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Core\oddity_memory.h">
+      <Filter>core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NinjaLib\GDITools.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaBase.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaButton.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaCheckbox.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaFrame.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaGraph.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaImageView.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaLabel.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaLEDMatrix.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\ninjaProgress.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\NinjaStaticLib.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="NinjaLib\winUtils.cpp">
+      <Filter>NinjaLib</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\oddity.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\vfx.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\vfx_line.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\vfx_textscroll.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\fix16.c">
+      <Filter>core\Fixed Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\fix16_exp.c">
+      <Filter>core\Fixed Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\fix16_sqrt.c">
+      <Filter>core\Fixed Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\fix16_trig.c">
+      <Filter>core\Fixed Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\fract32.c">
+      <Filter>core\Fixed Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\uint32.c">
+      <Filter>core\Fixed Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\RNG.cpp">
+      <Filter>core\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Emu.cpp" />
+    <ClCompile Include="Core\vfx_perlin.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\font_8x8.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\font_16x16.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_cube.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_ripple.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_eq.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_flame.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_plasma.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_noise.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_spark.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_meta.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_ident.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\disp_stars.cpp">
+      <Filter>core\fx</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Emu.rc" />
+  </ItemGroup>
+</Project>

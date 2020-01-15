@@ -1,0 +1,3 @@
+Y:\git.ishani.org\Warehouse\archival\Badge\toolchain2\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\git.ishani.org\Warehouse\archival\Badge\toolchain2\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+Y:\git.ishani.org\Warehouse\archival\Badge\toolchain2\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
