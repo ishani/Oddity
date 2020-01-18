@@ -1,4 +1,4 @@
-Badge Project (~2012)
+Badge Project (~2008)
 ======
 
 The precursor to final Oddity hardware, the *Badge* was a chunky 8x8 LED display mated with a MAX6960 display driver powerful enough to playback canned sequences from onboard memory. My pal John Popadic (https://johnpopadic.wordpress.com/) was the master behind the circuit design; a snapshot of his files from this time are under `/hardware`, more are available from his own site/Tumblr for the curious.
