@@ -1,0 +1,24 @@
+[Eagle]
+Version="05 02 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-5.2.0/lbr/SparkFun.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.2.0/lbr/at90usb.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.2.0/lbr/atmel.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.2.0/lbr/john.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.2.0/lbr/maxim.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="180 173 890 807"
+State=2
+Number=0
+
+[Desktop]
+Screen="2560 1024"
+Window="Win_1"
